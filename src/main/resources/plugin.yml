@@ -1,0 +1,15 @@
+name: BattleBox
+version: '${version}'
+main: ink.ziip.hammer.battlebox.BattleBox
+api-version: '1.19'
+depend:
+  - ProtocolLib
+  - PlaceholderAPI
+softdepend:
+  - PhantomWorlds
+  - Teams
+commands:
+  battlebox:
+    description: Core command.
+    usage: /<command>
+

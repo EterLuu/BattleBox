@@ -1,0 +1,12 @@
+area:
+  name: "area4"
+  timer: 60
+  team1-spawn-point: "battlebox:230.5:81:131.5:90:0"
+  team2-spawn-point: "battlebox:190.5:81:131.5:-90:0"
+  wool-pos1: "battlebox:209:81:130:0:0"
+  wool-pos2: "battlebox:212:81:133:0:0"
+  pos1: "battlebox:180:74:100:0:0"
+  pos2: "battlebox:239:130:160:0:0"
+  potions:
+    - "battlebox:210.5:84:143.5:0:0"
+    - "battlebox:212:81:124:0:0"
